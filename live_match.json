@@ -1,0 +1,55 @@
+{
+  "match_id": "mbpl2025-01",
+  "status": "Live",
+  "teams": {
+    "teamA": {
+      "name": "Thunder Warriors",
+      "score": "150/3",
+      "overs": "15.4",
+      "logo": "images/thunder_warriors.png"
+    },
+    "teamB": {
+      "name": "Storm Strikers",
+      "score": "N/A",
+      "overs": "N/A",
+      "logo": "images/storm_strikers.png"
+    }
+  },
+  "target": "TBD",
+  "batsmen": [
+    {
+      "name": "R. Sharma",
+      "runs": 68,
+      "balls": 39,
+      "fours": 8,
+      "sixes": 3,
+      "strike_rate": 174.36,
+      "is_on_strike": true
+    },
+    {
+      "name": "S. Iyer",
+      "runs": 27,
+      "balls": 18,
+      "fours": 3,
+      "sixes": 1,
+      "strike_rate": 150.00,
+      "is_on_strike": false
+    }
+  ],
+  "bowler": {
+    "name": "T. Natarajan",
+    "overs": "2.4",
+    "maidens": 0,
+    "runs": 24,
+    "wickets": 1,
+    "economy": 9.00
+  },
+  "current_run_rate": 9.57,
+  "required_run_rate": null,
+  "last_five_overs": "45 runs, 1 wicket",
+  "commentary": [
+    "15.3: SIX! R. Sharma smacks it over deep mid-wicket!",
+    "15.4: FOUR! Driven beautifully through covers!"
+  ],
+  "live_stream_url": "https://www.youtube.com/embed/live_stream?channel=CHANNEL_ID"
+}
